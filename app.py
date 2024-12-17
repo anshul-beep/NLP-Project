@@ -24,7 +24,7 @@ st.set_page_config(
 
 load_dotenv()
 os.getenv("GOOGLE_API_KEY")
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY")==st.secrets["GOOGLE_API_KEY"])
 
 st.markdown("""
 <style>
@@ -75,7 +75,7 @@ def get_text_chunks(text):
 
 # Index name
 INDEX_NAME = "pdf-chat-index"
-pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
+pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY")==st.secrets["PINECONE_API_KEY"])
 
 
 
