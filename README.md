@@ -50,10 +50,10 @@ The **PDF Chat Assistant** is a Streamlit-based web application that allows user
 Here are some screenshots of the **PDF Chat Assistant** in action:
 
 1. **Main Interface**  
-   ![Main Interface](ScreenShots\main_interface.png)
+   ![Main Interface](Shttps://github.com/anshul-beep/NLP-Project/blob/116817dd654919855532aa58d8408aa9486fc3ff/ScreenShots/main_interface.png)
 
 2. **Chat Conversation**  
-   ![Chat Conversation](ScreenShots\Conversation.png)
+   ![Chat Conversation](https://github.com/anshul-beep/NLP-Project/blob/116817dd654919855532aa58d8408aa9486fc3ff/ScreenShots/Conversation.png)
 
 
 ---
