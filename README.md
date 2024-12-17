@@ -12,6 +12,17 @@ Access the **PDF Chat Assistant** here:
 The **PDF Chat Assistant** is a Streamlit-based web application that allows users to upload PDF documents, process their contents, and interact with them via a conversational interface. It leverages **Pinecone** for vector storage, **LangChain** for orchestrating question-answering workflows, and **Google Gemini API** for generating responses and embeddings. Additionally, it provides text-to-speech capabilities for AI responses using **gTTS**.
 
 ---
+## Screenshots
+Here are some screenshots of the **PDF Chat Assistant** in action:
+
+1. **Main Interface**  
+   ![Main Interface](https://github.com/anshul-beep/NLP-Project/blob/116817dd654919855532aa58d8408aa9486fc3ff/ScreenShots/main_interface.png)
+
+2. **Chat Conversation**  
+   ![Chat Conversation](https://github.com/anshul-beep/NLP-Project/blob/116817dd654919855532aa58d8408aa9486fc3ff/ScreenShots/Conversation.png)
+
+
+---
 
 ## Features
 1. **Upload and Process PDFs**
@@ -46,16 +57,6 @@ The **PDF Chat Assistant** is a Streamlit-based web application that allows user
 
 ---
 
-## Screenshots
-Here are some screenshots of the **PDF Chat Assistant** in action:
 
-1. **Main Interface**  
-   ![Main Interface](https://github.com/anshul-beep/NLP-Project/blob/116817dd654919855532aa58d8408aa9486fc3ff/ScreenShots/main_interface.png)
-
-2. **Chat Conversation**  
-   ![Chat Conversation](https://github.com/anshul-beep/NLP-Project/blob/116817dd654919855532aa58d8408aa9486fc3ff/ScreenShots/Conversation.png)
-
-
----
 
 
